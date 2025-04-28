@@ -29,7 +29,7 @@ export default function Navbar() {
           <Link href="/">
             <div className="flex items-center gap-2 cursor-pointer">
               <Image 
-                src="/vercel.svg" 
+                src="/doxxscan.webp" 
                 alt="DoxxScan Logo" 
                 width={28} 
                 height={28} 

@@ -142,7 +142,7 @@ export default function ScanHistory() {
           </div>
         ) : reports.length === 0 ? (
           <div className="bg-white dark:bg-[#2a251e] p-8 rounded-lg border border-[#e0d9c7] dark:border-[#3a3530] text-center">
-            <p className="text-lg mb-4">You don't have any saved scans yet.</p>
+            <p className="text-lg mb-4">You don&apos;t have any saved scans yet.</p>
             <p className="text-[#666] dark:text-[#bbb] mb-6">
               When you scan a wallet, you can save the report to view it later.
             </p>
