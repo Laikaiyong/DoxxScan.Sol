@@ -1,6 +1,6 @@
-# 🕵️ DoxxScan.sol Documentation
+# 🕵️ DoxxScan.sol
 
-
+PDF Format Over Here: https://drive.google.com/file/d/1F_L7rwwjKQ1RqIXzOT4CNJCtMxusbewu/view?usp=sharing
 
 ## 🧠 Problem Statement: *"Are you doxxed? How sure are you?"*
 
