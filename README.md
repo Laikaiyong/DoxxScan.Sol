@@ -1,4 +1,5 @@
 # 🕵️ DoxxScan.sol
+**If any of our live website's functions does not show, it just means that we have already exhausted our free API keys :3**
 
 PDF Format Over Here: https://drive.google.com/file/d/17nKB9I6APuURQPmvLl4ajlNr5c2XbYnr/view?usp=sharing (With Pictures)
 
